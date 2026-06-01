@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/player-info/uniforms/","dg-note-properties":{}}
 ---
 
-![IMG_0841.jpg\|385](/img/user/IMG_0841.jpg)
 
-![IMG_0264 1.jpg\|386](/img/user/IMG_0264%201.jpg)
 
 https://www.theguardian.com/artanddesign/2024/oct/27/andrea-modica-catholic-girl-1984-photography-book-school-new-york-new-haven
 - this is a super cool photo series of schoolgirls in the 1980s and how they customize their school uniforms
