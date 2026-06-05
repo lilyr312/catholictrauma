@@ -15,7 +15,6 @@
 - https://www.theguardian.com/artanddesign/2024/oct/27/andrea-modica-catholic-girl-1984-photography-book-school-new-york-new-haven -> super cool photo series of 1980s schoolgirls
 - https://www.aetv.com/articles/mcmartin-preschool -> overview of the McMartin Preschool case
 - https://www.bbc.com/news/magazine-26328105 -> BADD (Bothered About Dungeons & Dragons)
-- 
 
 
 
