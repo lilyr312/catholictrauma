@@ -8,6 +8,7 @@
 - Where are we, what are we doing? A Timeline: [[Player Info/Real, Actual History.canvas\|Real, Actual History.canvas]]
 - What is the structure of the Catholic Church? What are Catholic Schools? Look here! -> [[Player Info/Catholic Church Structure.canvas\|Catholic Church Structure.canvas]]
 - Our System! -> https://drive.google.com/file/d/1kx3kQgGStT4-VTsPMM2VjsiSx1Ka-vFr/view?usp=drive_link
+
 **[[Player Info/Character Stuff\|Character Stuff]]** -> all things character building
 
 **ARTICLES:**
