@@ -9,6 +9,7 @@
 	- "Underground" -> https://necroticgnome.com/products/old-school-essentials-underground-character-sheet
 		- *this one is my favorite and I think it the most on theme*
 	- This one isn't official but I thought it was fun -> https://www.jvwest.art/home/charsheets
+	- MY GOOGLE SHEETS CHARACTER SHEET -> https://docs.google.com/spreadsheets/d/1XiAPd9uzRlZZQ52vT__lYDvaLo2PRKsepA7hsh4eZnc/edit?usp=sharing
 - **Spell Tracker** -> https://necroticgnome.com/products/old-school-essentials-spell-tracker
 	- *tbh I have no idea if Dark Places & Demogorgans uses the same spells as the base game. So this might not be useful at all.*
 
